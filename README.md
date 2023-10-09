@@ -10,12 +10,9 @@ pip install -r prerequisite.txt
 
 
 ## 2.Data Preparations
-## Download ISIC Dataset and BraTs Dataset.
-## There are two datasets, namely ISIC and BraTS. 
-## Each dataset is divided into two categories: diseased and normal. 
-## Folder A represents the diseased category, while folder B represents the normal category.
+Download ISIC Dataset and BraTs Dataset. There are two datasets, namely ISIC and BraTS. Each dataset is divided into two categories: diseased and normal. 
+Folder A represents the diseased category, while folder B represents the normal category.
 
-##
 Dataset root/
 ├── BraTs
 │    ├──trainA 
@@ -31,7 +28,6 @@ Dataset root/
      ├── trainA
           ……
      └── testB
-##
 
 ## 3.Usage
 ## Dataset BraTs 
