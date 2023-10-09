@@ -1,2 +1,2 @@
-# tangsy
+# GDC4MedSeg
 xxx
