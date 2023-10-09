@@ -40,6 +40,6 @@ step 3. Test the model: Run the sh ./scripts/test_brats.sh and achieve the final
 
 """ 
 
-# If you need to train the ISIC dataset, you can replace the original attention_gan_model.py and networks.py in the models folder with attention_gan_model_isic.py and networks_isic.py.
+#### If you need to train the ISIC dataset, you can replace the original attention_gan_model.py and networks.py in the models folder with attention_gan_model_isic.py and networks_isic.py.
 
 """
